@@ -1,0 +1,37 @@
+- pwd - display current working directory
+- ls -  list of directories
+- ls -lf - contained of directories look around
+- cd ../ - navigate out directory
+- clear - clear terminal history
+- mkdir - create new directory
+- rmdir - remove directory
+- touch - create an empty file
+- rm - remove a file
+- mv - move files to a new location
+- cp - copy files into a new location
+
+Previewing files
+- more - view one page at a time
+- less - view a file , with the ability to scroll up and down
+- head - preview the top ten lines of a file
+- tail - preview the bottom ten lines
+
+Command for concatenating and redirecting files
+- cat - concatenate and combine files together
+- > - write to a file, overwriting the file if the file name exist
+- >> - write to a file, appending the file if file name already exist
+
+Terminal command
+- man - to list instructions and options for each command
+- find - locate files based on search parameters
+- grep - to search within the contents of the files
+- wc - command to count words and lines
+- cat -s - will suppress repeated empty output lines
+- ls -s - will print the size of each file
+- cat -n - display lines numbers
+- wc - print new line word and byte counts for each files
+- find - to search for file names or directories
+- grep - to search for data points inside the files
+- pipe - to combine commands in a single line
+         rederict the output of one command to
+         another, to complete additional tasks
